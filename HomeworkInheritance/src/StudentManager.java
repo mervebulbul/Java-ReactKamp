@@ -5,6 +5,6 @@ public class StudentManager extends UserManager {
 	}
 	
 	public void Lesson(Student student) {
-		System.out.println(student.getFirstName() + " " + student.getLastName() + " completed lessson");
+		System.out.println(student.getFirstName() + " " + student.getLastName() + " completed lesson");
 	}
 }
